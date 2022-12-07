@@ -14,7 +14,11 @@
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
-
+.GITHUB-REPO {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
 :root {
 
   /**
